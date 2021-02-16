@@ -1,1 +1,0 @@
-- 💜 × Weariful is my love
