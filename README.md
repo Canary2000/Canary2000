@@ -1,16 +1,42 @@
-### Hi there 👋
+<h1 align="center">Canary.</h1>
+<p align="center">
+  Hi! I'm Canary (or Bryan)
+</p>
 
-<!--
-**Canary2000/Canary2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`+` Learning TypeScript and more <br>
+`+` 14y | (25/01)
 
-Here are some ideas to get you started:
+<hr/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### `>` 🚀 × Projects:
++ There's nothing here.
+
+### `>` 📚 × GitHub Stats:
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Canary2000&show_icons=true&count_private=false&theme=dracula&border_radius=7">
+</div>
+
+<hr/>
+
+<p align="center">
+  <img height="35em" width="35em"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+  /> |
+  <img height="35em" width="35em"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+  /> |
+  <img height="35em" width="35em"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+  /> |
+  <img height="35em" width="35em"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg"
+  /> |
+  <img height="35em" width="35em"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+  /> |
+  <img height="35em" width="35em"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+  /> 
+  
+  <p align="center"><code>Made with ❤️ by Canary.</code></p>
+</p>
