@@ -26,9 +26,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
   /> |
   <img height="35em" width="35em"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-  /> |
-  <img height="35em" width="35em"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg"
   /> |
   <img height="35em" width="35em"
