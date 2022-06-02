@@ -3,7 +3,8 @@
   Hi! I'm Canary (or Bryan)
 </p>
 
-`+` Learning TypeScript and more <br>
+`+` Learning to be develop backend <br>
+`+` Back-End developer <br>
 `+` 14y | (25/01)
 
 <hr/>
@@ -20,20 +21,17 @@
 
 <p align="center">
   <img height="35em" width="35em"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg"
   /> |
   <img height="35em" width="35em"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
   /> |
   <img height="35em" width="35em"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
   /> |
   <img height="35em" width="35em"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
   /> |
-  <img height="35em" width="35em"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
-  /> 
   
   <p align="center"><code>Made with ❤️ by Canary.</code></p>
 </p>
