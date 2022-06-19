@@ -3,14 +3,14 @@
   Hi! I'm Canary (or Bryan)
 </p>
 
-`+` Learning to be develop backend <br>
-`+` Back-End developer <br>
-`+` 14y | (25/01)
+`+` Learning: *React, NextJs* <br>
+`+` Front-End Developer <br>
+`+` 14y | (*25/01*)
 
 <hr/>
 
 ### `>` 🚀 × Projects:
-+ There's nothing here.
++ My Personal website 🐦
 
 ### `>` 📚 × GitHub Stats:
 <div>
