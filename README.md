@@ -4,7 +4,6 @@
 </p>
 
 `+` Learning: *React, NextJs* <br>
-`+` Front-End Developer <br>
 `+` 14y | (*25/01*)
 
 <hr/>
