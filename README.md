@@ -1,16 +1,30 @@
-<p align="center">
-    <img src="/Canary..png">
-</p>
-<hr />
+<h2 align='center'>🦋 Hi, I'm Canary! (or Lia)</h2>
+<h4 align='left'>：I'm 14 years old;<br>：I'm currently studying <i>Front-End</i> programming;</h4>
+<br>
 
-<p>
-    <code>+</code> Developer | 14y (25/01)
-    <br />
-    <code>+</code> Learning: <i>React and NextJs</i>
-</p>
+<div align="center">
+  <h3>🐙 ⁺ GitHub Stats:</h3>
+  <hr>
 
-### `>` 🚀 × Projects:
-+ My Personal website 🐦
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Canary2000&show_icons=true&count_private=true&hide_border=true&title_color=602af5&icon_color=602af5&text_color=c9d1d9&bg_color=0d1117" alt="Canary2000 github stats" /> 
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Canary2000&layout=compact&hide_border=true&title_color=602af5&text_color=fff&bg_color=0d1117" />
+</div>
 
-### `>` 📚 × GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Canary2000&show_icons=true&count_private=false&theme=tokyonight&border_radius=7">
+<br>
+
+<div align="center">
+    <h3>🚀 ⁺ Main Skills:</h3>
+    <hr>
+    <img src='https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117' />
+    <img src='https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117' />
+    <img src='https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117' />
+    <img src='https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117' />
+    <img src='https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117' />
+    <br>
+    <h3>🔥 ⁺ Tools:</h3>
+    <hr>
+    <img src='https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=1572B6&labelColor=0D1117' />
+    <img src='https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117' />
+</div> 
+<br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=602af5&height=150&section=footer&animation=twinkling"/> 
