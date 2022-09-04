@@ -1,28 +1,37 @@
-<h2 align='center'><code>🦋</code> Hi, I'm Canary! (or Lia)</h2>
-<h4 align='left'>：I'm 14 years old;<br>：I'm currently studying <i>Front-End</i> programming;</h4>
-<br>
+<h2 align='center'>
+    <code>🧝🏻‍♀️</code> ⁺ Hii, I'm Lia
+</h2>
 
-<div align="center">
-  <h3>🐙 ⁺ GitHub Stats:</h3>
-  <hr>
-
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Canary2000&layout=compact&hide_border=true&title_color=602af5&text_color=fff&bg_color=0d1117" />
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Canary2000&show_icons=true&count_private=true&hide_border=true&title_color=602af5&icon_color=602af5&text_color=c9d1d9&bg_color=0d1117" alt="Canary2000 github stats" /> 
+<div>
+    <code>×</code> – Well about me, <strong><i>hum...</i></strong> I guess I can start with what I like, <i>right?</i> <br />
+    <code>×</code> – I like butterflies, chocolate and I love programming, I'm a Junior Front-End developer but I also have experience with Back-End.
+    <br /> <br />
+    <code>×</code> – 14y | <a href='https://pt.pronouns.page/@Canary._'>Pronouns Page</a> (PT-BR) <br />
+    <code>×</code> – I'm dating <a href='https://github.com/JVOPINHO'>@jvopinho</a> 💜
 </div>
 
 <br>
 
-<div align="center">
-    <h3 align='left'><code>></code> 🚀 ⁺ Main Skills:</h3>
-    <img src='https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117' />
-    <img src='https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117' />
-    <img src='https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117' />
-    <img src='https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117' />
-    <img src='https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117' />
-    <br>
-    <h3 align='left'><code>></code> 🔥 ⁺ Tools:</h3>
-    <img src='https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=1572B6&labelColor=0D1117' />
-    <img src='https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117' />
-</div> 
-<br>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=602af5&height=150&section=footer&animation=twinkling"/> 
+<div>
+    <h3>– <code>🦑</code> ⁺ GitHub Stats</h3>
+    <img width="300em" src="https://github-readme-stats.vercel.app/api?username=Canary2000&show_icons=false&hide_border=true&theme=omni&bg_color=0d1117" alt="Canary2000 GitHub Stats" />
+    <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Canary2000&layout=compact&hide_border=true&theme=omni&bg_color=0d1117" />
+</div>
+
+<br />
+
+<div>
+    <p align='center'>
+        <code>
+            <img height='24' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+            <img height='24' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+            <img height='24' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+            <img height='24' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+            <img height='24' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
+            <img height='24' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+            <img height='24' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+        </code>
+    </p>
+</div>
+
+<hr />
