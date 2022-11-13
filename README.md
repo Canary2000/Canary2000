@@ -7,7 +7,6 @@
     <code>×</code> – I like butterflies, chocolate and I love programming, I'm a Junior Front-End developer but I also have experience with Back-End.
     <br /> <br />
     <code>×</code> – 14y | <a href='https://pt.pronouns.page/@Canary._'>Pronouns Page</a> (PT-BR) <br />
-    <code>×</code> – I'm dating <a href='https://github.com/JVOPINHO'>@jvopinho</a> 💜
 </div>
 
 <br>
