@@ -11,21 +11,7 @@
     <code>↬</code> Err... Tenho 15 anos, nasci na capital do Rio de Janeiro, o Rio de Janeiro. <i>Originalmente comecei a estudar programação para criação de jogos e acabei parando, após um tempo conheci uma comunidade e encontrei pessoas incriveis que foram me ajudando a aprender JavaScript para fazer bots pra plataforma Discord, acabei conhecendo o mundo Front-End e me apaixonando, nesse mesmo periodo fui vivendo e me descobrindo, hoje em dia me considero uma desenvolvedora não-binária.</i><br />
 </div>
 
-<br />
-<br />
-<hr />
-
-<div>
-	<h3 align='center'> <code>📚</code> ⁺ Skills</h3>
-	<code>  ×  </code> – <strong>Linguagens</strong> ↬ <code>JavaScript, TypeScript, Python (Aprendendo), Rust (Aprendendo)...</code> <br /> <br />
-	<code>  ×  </code> – <strong>Skills Front-End</strong> ↬ <code>React, Next, Sass, Radix UI, Tailwind, Vite, Stitches, ...</code> <br />
-	<code>↬</code> Frameworks e bibliotecas: <i>React, Next, Tailwind, Vite.</i><br />
-	<code>↬</code> CSS: <i>Sass, Tailwind, Stitches, Styled-components.</i> <br /> <br />
-	<code>  ×  </code> – <strong>Skills Back-End</strong> ↬ <code>Express, Prisma, FastAPI...</code> <br />
-	<code>↬</code> Frameworks: <i>Express, FastAPI.</i><br />
-	<code>↬</code> ORMs: <i>Prisma.</i><br />
-</div>
-
+<br>
 <br>
 
 <div align='center'>
