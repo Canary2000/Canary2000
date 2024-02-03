@@ -4,7 +4,7 @@
     <code>↬</code> Sou apaixonada por borboletas, gatos, programação e chocolates!<br />
     <code>↬</code> Programadora <b>Front-End</b> web e aprendendo desenvolvimento mobile.<br />
     <br />
-    <code>↬</code> Err... Tenho 15 anos, nasci na capital do Rio de Janeiro, o Rio de Janeiro.
+    <code>↬</code> Err... Tenho 16 anos, nasci na capital do Rio de Janeiro, o Rio de Janeiro.
     <i>
         Originalmente comecei a estudar programação para criação de jogos e acabei parando, após um tempo conheci uma comunidade e encontrei pessoas incriveis que foram me ajudando a aprender JavaScript para fazer bots pra plataforma
         Discord, acabei conhecendo o mundo Front-End e me apaixonando, nesse mesmo periodo fui vivendo e me descobrindo, hoje em dia me considero uma desenvolvedora não-binária.
